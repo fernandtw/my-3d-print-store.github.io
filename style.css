@@ -1,0 +1,40 @@
+
+
+
+.logo{
+    width: 50px;
+}
+
+.navbar-brand img {
+    max-height: 50px;
+}
+.announcement-bar {
+    background-color: #AD49E1;
+    color: white;
+}
+.card {
+    background-color: #EBD3F8;
+}
+.card-img-top {
+    background-color: white;
+}
+.btn-primary {
+    background-color: #433D8B;
+    border-color: #433D8B;
+}
+
+.imagen{
+    height: 300px;
+}
+
+.imagen img{
+    width: 100%;
+    height: 100%;
+}
+
+.notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
